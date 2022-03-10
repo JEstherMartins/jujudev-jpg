@@ -8,7 +8,7 @@
 - 😄 Pronouns: Ela/dela
 ##
  <div>
-  <a href="https://beacons.ai/jujudev-jpg">
+  <a href="https://beacons.ai/jujudev.jpg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jujudev-jpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujudev-jpg&layout=compact&langs_count=16&theme=dark"/>
 </div>
