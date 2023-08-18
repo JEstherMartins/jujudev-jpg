@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 Atualmente estou procurando vaga na área de desenvolvimento 
-- 🌱 Estudando HTML, CSS e JS
+- 🔭 Atualmente estou desenvolvimento de software
+- 🌱 Estudando Java e C++
 - 📫 Email: martiinsjuliaesther@gmail.com
 - 😄 Pronouns: Ela/dela
 ##
