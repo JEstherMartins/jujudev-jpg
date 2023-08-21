@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Atualmente estou desenvolvimento de software
+- 🔭 Atualmente estou estudando desenvolvimento de software
 - 🌱 Estudando Java e C++
 - 📫 Email: martiinsjuliaesther@gmail.com
 - 😄 Pronouns: Ela/dela
