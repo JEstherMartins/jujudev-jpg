@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Atualmente estou estudando desenvolvimento de software
-- 🌱 Estudando HTML, CSS e C++
+- 🌱 Estudando JavaScript e C++
 - 📫 Email: martiinsjuliaesther@gmail.com
 - 😄 Pronouns: Ela/dela
 ##
