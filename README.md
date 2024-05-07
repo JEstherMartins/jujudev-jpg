@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Atualmente estou estudando desenvolvimento de software
-- 🌱 Estudando Back end: PHP, Js Jquery/Ajax, MySQL
+- 🌱 Estudando: JS
 - 📫 Email: martiinsjuliaesther@gmail.com
 - 😄 Pronouns: Ela/dela
 ##
