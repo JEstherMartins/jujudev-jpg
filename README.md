@@ -6,12 +6,6 @@
 - 🌱 Estudando: Análise e Desenvolvimento de Sistemas
 - 📫 Email: martiinsjuliaesther@gmail.com
 - 😄 Pronouns: Ela/dela
-##
- <div>
-  <a href="https://beacons.ai/jujudev.jpg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jujudev-jpg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jujudev-jpg&layout=compact&langs_count=16&theme=dark"/>
-</div>
  
  ##
   
@@ -20,6 +14,8 @@
   <img align="center" alt="Jú-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jú-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jú-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Jú-react" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+ 
 </div>
   
 ##  
