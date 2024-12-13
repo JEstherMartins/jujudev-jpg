@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Atualmente trabalho na Superintendência dos desportos do estado da Bahia como Suporte Técnico
+- 🔭 Atualmente trabalho na Superintendência dos desportos do estado da Bahia como Suporte Técnico contratada pela Fundação Luís Eduardo Magalhães
 - 🌱 Estudando: Análise e Desenvolvimento de Sistemas
 - 📫 Email: martiinsjuliaesther@gmail.com
 - 😄 Pronouns: Ela/dela
